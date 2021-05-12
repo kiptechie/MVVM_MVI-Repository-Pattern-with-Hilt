@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Repository Pattern with Hilt</string>
+    <string name="unknown_error">Unknown Error</string>
+</resources>

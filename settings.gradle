@@ -1,0 +1,2 @@
+rootProject.name = "MVVM Repository Pattern with Hilt"
+include ':app'
